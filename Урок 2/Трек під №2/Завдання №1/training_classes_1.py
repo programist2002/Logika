@@ -5,6 +5,7 @@ class Button:
         self.y = y_num
         self.appearance = True
         
+        
     def hide(self):
         self.appearance = False
 
